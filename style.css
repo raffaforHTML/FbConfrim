@@ -1,0 +1,21 @@
+  <style>
+    body {
+      background-color: red;
+    }
+    h2 {
+     color: white;
+     background-color: ;
+     text-align: center;
+     border-radius: ;
+   }
+   h3 {
+      color: white;
+    }
+    button {
+      color: white;
+      background-color: blue;
+      margin: 5px;
+      padding: 5px;
+      border-radius: 10px;
+    }
+  </style>
